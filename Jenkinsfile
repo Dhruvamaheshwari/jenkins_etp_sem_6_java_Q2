@@ -16,9 +16,9 @@ pipeline{
     }
 
     environment{
-        DOCKER_IMAGE = "dhruvamaheshwari47/etp_Q2"
+        DOCKER_IMAGE = "dhruvamaheshwari47/etp_2"
         DOCKER_TAG = "latest"
-        CONTAINER_NAME = "ept_Q2"
+        CONTAINER_NAME = "ept_2"
         PORT = "8080"
     }
 
